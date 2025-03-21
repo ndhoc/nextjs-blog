@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Nguyen Duc Hoc',
   headerTitle: 'ndhocBlog',
   description: 'I post everything here',
-  language: 'vi-vn',
+  language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://ndhoc.com',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
