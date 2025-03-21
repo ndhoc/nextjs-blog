@@ -22,7 +22,7 @@ const siteMetadata = {
   instagram: 'https://www.instagram.com/_ndhoc',
   medium: 'https://medium.com',
   bluesky: 'https://bsky.app/',
-  locale: 'vi-VN',
+  locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
   analytics: {
