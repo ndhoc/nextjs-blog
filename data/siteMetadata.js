@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Hoc Blog',
+  title: 'hocBlog',
   author: 'Nguyen Duc Hoc',
-  headerTitle: 'ndhocBlog',
+  headerTitle: 'hocBlog',
   description: 'I post everything here',
   language: 'en-us',
   theme: 'system', // system, dark or light
