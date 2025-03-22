@@ -13,7 +13,7 @@ const siteMetadata = {
   mastodon: 'https://mastodon.social/',
   email: 'h@ndhoc.com',
   github: 'https://github.com/ndhoc',
-  x: 'https://twitter.com/x',
+  x: 'https://twitter.com/rndhoc',
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com/ndhoc',
   youtube: 'https://youtube.com/ndhoc',
